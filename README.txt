@@ -1,1 +1,1 @@
-
+This program designed to detect pneumonia using machine learning typically involves a dataset of chest X-ray images of patients with pneumonia and without pneumonia. The machine learning algorithm is trained on these images to identify patterns and features that differentiate between healthy and infected lungs.
